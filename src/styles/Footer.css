@@ -1,0 +1,15 @@
+.footer {
+    position: relative;
+    background-color: rgba(73, 73, 73, 0.6);
+    color: #fff;
+    text-align: center;
+    height: 20px;
+    font-size: 10px;
+}
+
+.footer__item {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}

@@ -1,0 +1,38 @@
+.app {
+  width: 100%;
+  min-height: 100vh;
+  font-family: arial, sans-serif;
+  background: url("../img/bgc1.jpg") no-repeat;
+  background-size: cover;
+  overflow: hidden;
+}
+
+.app__wrapper {
+  position: relative;
+  min-height: calc(100vh - 20px);
+  width: 100%;
+  margin: 0 auto;
+}
+
+.header {
+  padding: 35px 20px;
+  background-color: rgba(73, 73, 73, 0.6);
+}
+
+.header__wrapp {}
+
+main {
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+.information {
+  position: relative;
+}
+
+.information__loader {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}

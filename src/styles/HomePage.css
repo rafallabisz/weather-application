@@ -1,0 +1,14 @@
+.information__homePage {
+    padding: 40px;
+    color: #fff;
+    text-align: center;
+}
+
+.homePage--title {
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+
+.homePage--description {
+    font-size: 20px;
+}
