@@ -1,6 +1,6 @@
 # [Weather-application](https://github.com/rafallabisz/weather-application/blob/master/README.md)
 
-Weather application allows check actuall weather in any city. We see information such as temperature, pressure, humidity, wind power and information about sunrise / sunset. Data are download dynamically with API.
+Weather application allows check actuall weather of any city. We see information such as temperature, pressure, humidity, wind power and information about sunrise / sunset. Data are download dynamically with API.
 
 ## Technologies used in this project:
 - CSS3
